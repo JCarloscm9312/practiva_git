@@ -1,5 +1,9 @@
 # Este es el archivo principal
+
+print("acá estara el conflicto")
+
 print("Simulamos otro conflicto")
+
 
 print("Aqui resultara un conflicto")
 
