@@ -16,6 +16,7 @@ def multiplicacion(a,b):
 def main():
     print("Operaciones matemáticas")
     print("Suma: ", suma(5, 3))
+    print("resta: ", resta(7,5))
     
 if __name__ == "__main__":
     main()
