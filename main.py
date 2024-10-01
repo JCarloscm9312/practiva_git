@@ -1,6 +1,8 @@
 # Este es el archivo principal
 print("hagamos otro pull")
 
+print("hagamos otro push y pull request")
+
 print("acá estara el conflicto")
 
 print("Simulamos otro conflicto")
