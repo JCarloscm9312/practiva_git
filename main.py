@@ -22,10 +22,14 @@ def resta(a,b):
 def multiplicacion(a,b):
     return a * b
 
+def potenciacion(a,b):
+    return a**b
+
 def main():
     print("Operaciones matemáticas")
     print("Suma: ", suma(5, 3))
     print("resta: ", resta(7,5))
+    print("Potenciacion", potenciacion(5,5))
     
 if __name__ == "__main__":
     main()
